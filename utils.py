@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Mar 15 10:23:06 2018
+
+@author: rafae
+"""
+
 """Provides some utilities widely used by other modules"""
 
 import bisect

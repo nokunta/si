@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Mar 15 10:21:37 2018
+
+@author: rafae
+"""
+
 """Search (Chapters 3-4)
 
 The way to use this code is to subclass Problem to create a class of problems,
